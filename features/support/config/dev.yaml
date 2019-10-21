@@ -10,4 +10,4 @@ api:
 users:
   cat_manager:
     email: "tony@stark.com"
-    pass: "pwd123"
+    pass: "senha123"
